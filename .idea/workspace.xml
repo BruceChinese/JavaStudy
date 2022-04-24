@@ -1,63 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e5574e9-1f92-4a78-a416-346692f5c0de" name="Changes" comment="20220419">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days2/TestVar12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe04.java" afterDir="false" />
+    <list default="true" id="0e5574e9-1f92-4a78-a416-346692f5c0de" name="Changes" comment="20220423">
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOpe09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOps10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOps11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/base/days3/TestOps12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/HelloWorld2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/HelloWorld3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/HiWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/base/HelloWorld2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/base/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/base/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/base/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/base/myHello/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/HelloWorld2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/HelloWorld2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/HelloWorld3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/HelloWorld3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/HiWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/HiWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/TestVar03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/TestVar03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/TestVersion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/TestVersion01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/base/HelloWorld2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/base/HelloWorld2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/base/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/base/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/base/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/base/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/base/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/base/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/myHello/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days2/myHello/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +79,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "ruby.rails.projectView.checked": "true",
-    "settings.editor.selected.configurable": "http.proxy"
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -140,46 +92,7 @@
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.TestOpe04">
-    <configuration name="TestOpe01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.days3.TestOpe01" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.days3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestOpe02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.days3.TestOpe02" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.days3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestOpe03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.days3.TestOpe03" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.days3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.TestOps12">
     <configuration name="TestOpe04" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.days3.TestOpe04" />
       <module name="untitled" />
@@ -193,12 +106,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVar12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="base.TestVar12" />
+    <configuration name="TestOpe08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.days3.TestOpe08" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base.*" />
+          <option name="PATTERN" value="base.days3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOpe09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.days3.TestOpe09" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.days3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOps10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.days3.TestOps10" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.days3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOps11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.days3.TestOps11" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.days3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOps12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.days3.TestOps12" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.days3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,10 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TestOpe03" />
-        <item itemvalue="应用程序.TestOpe02" />
-        <item itemvalue="应用程序.TestOpe01" />
-        <item itemvalue="应用程序.TestVar12" />
+        <item itemvalue="应用程序.TestOps12" />
+        <item itemvalue="应用程序.TestOps11" />
+        <item itemvalue="应用程序.TestOps10" />
+        <item itemvalue="应用程序.TestOpe09" />
+        <item itemvalue="应用程序.TestOpe08" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +201,7 @@
       <workItem from="1650379077638" duration="2582000" />
       <workItem from="1650632880639" duration="5070000" />
       <workItem from="1650639109839" duration="210000" />
-      <workItem from="1650639380923" duration="5645000" />
+      <workItem from="1650639380923" duration="14867000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1650379799391</created>
@@ -258,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650381127862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20220423">
+      <created>1650679712934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650679712934</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +251,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="20220419" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220419" />
+    <MESSAGE value="20220423" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220423" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
