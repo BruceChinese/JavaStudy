@@ -9,38 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5574e9-1f92-4a78-a416-346692f5c0de" name="Changes" comment="20220423">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestFor16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestIf02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestIf03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestIf04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestIf05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestIf06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days4/TestWhile02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days5/TestMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days5/TestMethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/days5/方法.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,25 +57,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lungt/IdeaProjects/untitled&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/lungt/IdeaProjects/untitled",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "ruby.rails.projectView.checked": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lungt\IdeaProjects\untitled\src\base\days2" />
@@ -118,7 +87,7 @@
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.TestMethod02">
+  <component name="RunManager" selected="应用程序.base.days3.TestOpe04">
     <configuration name="TestFor14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="base.days4.TestFor14" />
       <module name="untitled" />
@@ -197,15 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.TestMethod02" />
-        <item itemvalue="应用程序.TestMethod01" />
-        <item itemvalue="应用程序.TestFor16" />
-        <item itemvalue="应用程序.TestFor15" />
-        <item itemvalue="应用程序.TestFor14" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
