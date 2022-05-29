@@ -9,28 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5574e9-1f92-4a78-a416-346692f5c0de" name="Changes" comment="20220522">
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb11/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb5/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb5/MsbStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb7/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb9/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb9/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb9/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb9/sub/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestOOP/src/com/msb9/sub2/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test01/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test02/Tes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestOOP2/src/com/msb/test03/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOOP/src/com/msb2/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOOP/src/com/msb2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/days6/TestArray02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/days6/TestArray02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +76,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
@@ -96,13 +85,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "C:/Users/lungt/IdeaProjects/untitled",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "ruby.rails.projectView.checked": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -117,26 +107,21 @@
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb5.Demo" />
-      <module name="untitled" />
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="ComposePreviewRunConfiguration" />
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.com.msb.test03.Test">
+    <configuration name="Tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.test02.Tes" />
+      <module name="TestOOP2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.msb5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MsbStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb5.MsbStudent" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.msb5.*" />
+          <option name="PATTERN" value="com.msb.test02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +155,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.msb5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.msb5.Test" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.msb5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.msb7.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.msb7.Test" />
       <module name="untitled" />
@@ -196,13 +168,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.msb.test01.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.test01.Test" />
+      <module name="TestOOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.test01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.msb.test03.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.test03.Test" />
+      <module name="TestOOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.test03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.com.msb.test03.Test" />
+        <item itemvalue="应用程序.Tes" />
+        <item itemvalue="应用程序.com.msb.test01.Test" />
         <item itemvalue="应用程序.Test" />
         <item itemvalue="应用程序.com.msb7.Test" />
-        <item itemvalue="应用程序.Demo" />
-        <item itemvalue="应用程序.MsbStudent" />
-        <item itemvalue="应用程序.com.msb5.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +287,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="20220419" />
     <MESSAGE value="20220423" />
